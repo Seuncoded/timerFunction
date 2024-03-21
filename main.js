@@ -1,5 +1,5 @@
 let num = 1;
-let secondsCount = 6;
+
 let dispScreeen = document.getElementById('showNumberHere');
 setInterval(() => {
    
